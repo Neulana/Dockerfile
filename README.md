@@ -1,2 +1,2 @@
 # dotfiles
-Collect the dotfile of my own.
+一些自用的配置文件，参考了别人的配置方案，并做些简单的修改以符合自己的使用习惯。
